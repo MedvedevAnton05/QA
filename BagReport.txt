@@ -1,0 +1,14 @@
+Summary: what, where, when
+Description:
+	Environment:
+	Precondition:
+	Step to reproduse: 1)
+		   	   2)
+		           3)
+	Actual result:
+	Expected result:
+Severity: [bloker, critical, major, minor, trivial]
+Priority: [high, medium, low]
+Related to ...
+Attachment:
+Assigne to ...
